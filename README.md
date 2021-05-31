@@ -1,4 +1,4 @@
-# teamProfileGenerator
+# Team Profile Generator
 
 ## Getting Gtarted
 
@@ -8,7 +8,9 @@ Run npm install inquirer, & Run node index.js or npm start
 
 npm run test
 
-# Example
+# Demo
+
+[Video Test](https://drive.google.com/file/d/1kNfblNBSIGbQ94M8gyGKuDuByW2eAnfp/view?usp=sharing)
 
 ![](./assets/TPG.gif)
 
